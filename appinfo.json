@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "CABBIE": 2,
+        "CALL": 4,
+        "TARGET": 3,
+        "UBER": 1,
+        "dummy": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "longName": "Simple Voice Demo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CONFIRM.PNG",
+                "name": "RESOURCE_ID_CONFIRM",
+                "type": "png"
+            },
+            {
+                "file": "images/CROSS.PNG",
+                "name": "RESOURCE_ID_CROSS",
+                "type": "png"
+            },
+            {
+                "file": "images/TICK.PNG",
+                "name": "RESOURCE_ID_TICK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Simple Voice Demo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "d7308b1f-3bb8-4a59-8af0-e2b6be6d0807",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
